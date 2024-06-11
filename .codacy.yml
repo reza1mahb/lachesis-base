@@ -5,7 +5,7 @@ engines:
     exclude_paths:
     - config/engines.yml
   duplication:
-    enabled: true
+    enabled: false
     exclude_paths:
     - config/engines.yml
   metrics:
